@@ -1,0 +1,6 @@
+projectKey=org.sonarqube:scmgalaxy1
+serverUrl=http://34.238.211.55:9000
+serverVersion=8.5.0.37579
+dashboardUrl=http://34.238.211.55:9000/dashboard?id=org.sonarqube%3Ascmgalaxy1
+ceTaskId=AXU1RGFndRPdzOUAFbLA
+ceTaskUrl=http://34.238.211.55:9000/api/ce/task?id=AXU1RGFndRPdzOUAFbLA
